@@ -1,0 +1,4 @@
+# requirements.yml
+- src: https://github.com/zenzedoon/jenkinstestansible.git
+  version: master
+  name: jenkinstestansible
